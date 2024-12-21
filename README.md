@@ -6,6 +6,8 @@ Pop Culture Trivia with SocialFi Rewards is an innovative blockchain-based platf
 
 ## Contract Address
 0x895004835c5160bc909BC5a83f6fE38c059f7994
+![image](https://github.com/user-attachments/assets/5b8c293e-09c0-40c1-8906-7c86588b91b6)
+
 
 ## Project Vision
 The project's vision is to create a decentralized trivia platform that not only entertains users but also incentivizes their participation through blockchain rewards. By leveraging SocialFi principles, the project aims to foster a community-driven ecosystem where users can earn, stake, and grow their token holdings in a transparent and decentralized environment.
